@@ -1,0 +1,12 @@
+Traducir Logica de Predicados, y en base a función
+
+1.Ningún emperador es odontologo
+2.Algunos gatos no saben silbar
+3.Hay hombres que ni son libres ni tienen ningún deseo de serlo
+4.Todos los perros del vecindario muerden a algún cartero
+5.Hay un cartero al que lo muerden todos los perros 
+6.Todos los carteros son mordidos por algún perro
+7.Hay un perro que se muerde a si mismo
+8.Todos los gatos son mamiferos
+9.Todo el mundo quiere a alguien
+10.Existe alguien a quien todo el mundo quiere
