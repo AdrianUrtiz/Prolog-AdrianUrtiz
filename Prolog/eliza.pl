@@ -67,7 +67,7 @@ like(carros).
 
 elizaEres(X, R):- eres(X), R = ['Yes', i, am, X].
 elizaEres(X, R):- \+eres(X), R = ['No', i, am, not, X].
-eres(inteligencia artificial).
+eres(inteligencia_artificial).
 eres(maquina).
 eres(robot).
 eres(computadora).
